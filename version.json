@@ -1,5 +1,5 @@
 {
     "fw_version": "2.1.4",
-    "er_irom1_url": "https://github.com/todokorea-dev/tda200-ota/releases/download/v2.1.4/ER_IROM1_FULL",
-    "er_rom_xip_url": "https://github.com/todokorea-dev/tda200-ota/releases/download/v2.1.4/ER_ROM_XIP"
+    "er_irom1_url": "https://github.com/todokorea-dev/tda200-ota/releases/download/v2.1.5/ER_IROM1_FULL",
+    "er_rom_xip_url": "https://github.com/todokorea-dev/tda200-ota/releases/download/v2.1.5/ER_ROM_XIP"
 }
