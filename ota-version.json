@@ -1,6 +1,6 @@
 {
-    "fw_version": "2.3.6",
-    "er_irom1_url": "https://github.com/todokorea-dev/tda200-ota/releases/download/v2.3.6/ER_IROM1",
-    "er_rom_xip_url": "https://github.com/todokorea-dev/tda200-ota/releases/download/v2.3.6/ER_ROM_XIP",
-    "jump_table_url": "https://github.com/todokorea-dev/tda200-ota/releases/download/v2.3.6/JUMP_TABLE"
+    "fw_version": "2.3.7",
+    "er_irom1_url": "https://github.com/todokorea-dev/tda200-ota/releases/download/v2.3.7/ER_IROM1",
+    "er_rom_xip_url": "https://github.com/todokorea-dev/tda200-ota/releases/download/v2.3.7/ER_ROM_XIP",
+    "jump_table_url": "https://github.com/todokorea-dev/tda200-ota/releases/download/v2.3.7/JUMP_TABLE"
 }
